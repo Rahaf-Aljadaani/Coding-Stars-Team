@@ -15,6 +15,7 @@
 		04DF78B1270DCED60050D964 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04DF78AF270DCED60050D964 /* LaunchScreen.storyboard */; };
 		04DF78B9270DCEE50050D964 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04DF78B8270DCEE50050D964 /* SecondViewController.swift */; };
 		04DF78BB270DCEF10050D964 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04DF78BA270DCEF10050D964 /* ThirdViewController.swift */; };
+		04DF78BD270DD3110050D964 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04DF78BC270DD3110050D964 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		04DF78B2270DCED60050D964 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		04DF78B8270DCEE50050D964 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		04DF78BA270DCEF10050D964 /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
+		04DF78BC270DD3110050D964 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				04DF78A8270DCED40050D964 /* ViewController.swift */,
 				04DF78B8270DCEE50050D964 /* SecondViewController.swift */,
 				04DF78BA270DCEF10050D964 /* ThirdViewController.swift */,
+				04DF78BC270DD3110050D964 /* DetailViewController.swift */,
 				04DF78AA270DCED40050D964 /* Main.storyboard */,
 				04DF78AD270DCED60050D964 /* Assets.xcassets */,
 				04DF78AF270DCED60050D964 /* LaunchScreen.storyboard */,
@@ -147,6 +150,7 @@
 				04DF78B9270DCEE50050D964 /* SecondViewController.swift in Sources */,
 				04DF78A9270DCED40050D964 /* ViewController.swift in Sources */,
 				04DF78BB270DCEF10050D964 /* ThirdViewController.swift in Sources */,
+				04DF78BD270DD3110050D964 /* DetailViewController.swift in Sources */,
 				04DF78A5270DCED40050D964 /* AppDelegate.swift in Sources */,
 				04DF78A7270DCED40050D964 /* SceneDelegate.swift in Sources */,
 			);

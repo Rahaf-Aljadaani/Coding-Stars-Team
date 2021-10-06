@@ -14,6 +14,10 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-
+    @IBAction func nextAction(_ sender: UIButton) {
+        let detailVC = storyboard?.instantiateViewController(withIdentifier: "Detail") as! DetailViewController
+        self.navigationController?.pushViewController(detailVC, animated: true)
+    }
+    
 }
 
