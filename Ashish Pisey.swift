@@ -2,5 +2,10 @@ import Foundation
 
 // declared a variable name
 var name: String = "Ashish Pisey"
-print(name)
+
+func printName() {
+    print(name)
+}
+
+printName()
 
